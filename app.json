@@ -4,11 +4,11 @@
     "slug": "WeatherApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon-m.png",
     "scheme": "weatherapp",
     "userInterfaceStyle": "dark",
     "ios": {
-      "icon": "./assets/icon.png"
+      "icon": "./assets/icon-m.png"
     },
     "android": {
       "adaptiveIcon": {
@@ -19,7 +19,7 @@
     },
     "web": {
       "output": "static",
-      "favicon": "./assets/icon.png"
+      "favicon": "./assets/icon-m.png"
     },
     "plugins": [
       "expo-router",
